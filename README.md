@@ -1,4 +1,3 @@
 Julia fractal:
-
-https://github.com/user-attachments/assets/9c3e1126-2620-41f2-9c79-e2319a39db21
+https://github.com/user-attachments/assets/328271ef-3d85-4efe-82d3-b7050701b798
 
