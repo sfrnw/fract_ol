@@ -1,5 +1,6 @@
 Julia fractal:
 https://github.com/user-attachments/assets/328271ef-3d85-4efe-82d3-b7050701b798
+
 ![Screenshot from 2024-12-19 13-23-08](https://github.com/user-attachments/assets/a15d0dd9-a323-47d5-ac49-3fb1c659a83b)
 
 Newton fractal:
