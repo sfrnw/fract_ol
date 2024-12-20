@@ -6,7 +6,7 @@
 /*   By: asafrono <asafrono@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/27 12:47:08 by asafrono          #+#    #+#             */
-/*   Updated: 2024/12/19 11:30:26 by asafrono         ###   ########.fr       */
+/*   Updated: 2024/12/20 15:21:35 by asafrono         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@
 # include <unistd.h>
 # include <math.h>
 # include "../minilibx-linux/mlx.h"
-# include "../libft/libft.h"
+# include "../libft/src/libft.h"
 # include <X11/X.h>
 # include <X11/keysym.h>
 
